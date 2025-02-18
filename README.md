@@ -1,6 +1,6 @@
-Bold each of the Glossary words as you use them. Bold ONLY the glossary word.
 
-- **Branch**: The repository branch serves as a distinct copy which enables simultaneous development work.
+
+- **Branch**: The repository branch serves as a distinct copy, enabling simultaneous development work.
 - **Clone**: A clone refers to the downloaded duplicate of a repository to a user's local machine.
 - **Commit**: The Git history records every snapshot of modifications to a repository.
 - **Fetch**: The fetch command pulls the newest updates from a remote repository while leaving them unapplied.
