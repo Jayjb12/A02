@@ -1,4 +1,7 @@
-https://desktop.github.com/download/, https://git-scm.com/downloads/mac, https://www.jetbrains.com/webstorm/ 
+I created my JetBrains account by linking it to my GitHub account using my school email. Once I was approved I used the 3 links below to download GitHub, WebStorm, and Git. <br>
+https://desktop.github.com/download/ <br> 
+https://git-scm.com/downloads/mac <br>
+https://www.jetbrains.com/webstorm/ 
 
 - **Branch**: The repository branch serves as a distinct copy, enabling simultaneous development work.
 - **Clone**: A clone refers to the downloaded duplicate of a repository to a user's local machine.
